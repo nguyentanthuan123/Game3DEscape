@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shootable
+  - Grabable
+  - handle
+  - keySpawn
+  - Weapon
+  - spawnZone
+  - healthBar
+  - Ignore Ragdoll
+  - Action
+  - Enemy
+  - shootPoisionPoint
+  - ShiedldPoint
+  - spiderBossHitBox
+  - shootWebPoint
+  - Emission
+  - Dirt
+  - CompanionAI
+  - camPlayer
+  - Gun
+  - fireSpread
+  - effectPosition
+  - ExitGate
+  - LadderTrigger
+  - Interactable
+  - Collectable
+  - LookAt
+  - Metal
+  - Barrel
+  - hitBox
+  - Glass
+  - Wood
+  - Concrete
+  - AutoCrouch
+  - Boss
+  - hitBoxBigEnemy
+  - EvaBullet
+  - NightLights
+  - BigGunItem
+  - hitBoxTallSpider
+  - light
+  - escape
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Damage_player
+  - 
+  - Lighting
+  - Ground
+  - Postprocessing
+  - key
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Fire
+    uniqueID: 3804908061
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
